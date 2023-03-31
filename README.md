@@ -25,7 +25,7 @@
       <div class="container">
         <div class="text-container">
             <h2 id="test">Test using bloomrpc</h2>
-            <p>This is a brief description of the project.</p>
+            <p>This is a test using Bloomrpc.</p>
         </div>
       </div>
     <div class="container">
