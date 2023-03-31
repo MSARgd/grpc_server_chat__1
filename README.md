@@ -9,12 +9,22 @@
     <h2>Table of Contents</h2>
     <ul>
         <li><a href="#description">Description</a></li>
-        <li><a href="#installation">Test using bloomrpc</a></li>
+        <li><a href="#test">Test using bloomrpc</a></li>
     </ul>
     <hr>
       <div class="container">
         <div class="text-container">
-            <h2 id="description">Test using bloomrpc</h2>
+            <h2 id="Description">Description</h2>
+            <ul>
+            <li>Create a GRPC Chat Server</li>
+            <li>   Testing the chat server with a GRPC client ( BloomRPC) </li>
+            </ul>
+        </div>
+      </div>
+    <hr>
+      <div class="container">
+        <div class="text-container">
+            <h2 id="test">Test using bloomrpc</h2>
             <p>This is a brief description of the project.</p>
         </div>
       </div>
